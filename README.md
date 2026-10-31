@@ -13,7 +13,7 @@
 
 ## Project Overview
 
-Author: Denise Case
+Author: Ronni Merrill
 
 Date: 2026 October
 
