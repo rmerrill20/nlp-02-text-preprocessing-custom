@@ -1,0 +1,10 @@
+Horror is a film genre that seeks to elicit physical or psychological fear in its viewers.
+Horror films often explore dark subject matter and may deal with transgressive topics or themes.
+Broad elements of the genre include monsters, apocalyptic events, and religious or folk beliefs.
+Horror films have existed since the early 20th century.
+Early inspirations predating film include folklore;
+the religious beliefs and superstitions of different cultures;
+and the Goth and horror literature of authors such as Edgar Allan Poe,
+Bram Stoker, and Mary Shelley.
+
+# source https://en.wikipedia.org/wiki/Horror_film

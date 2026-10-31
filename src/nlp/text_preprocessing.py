@@ -63,7 +63,7 @@ log_path(LOG, "SCRIPTS_PATH", SCRIPTS_PATH)
 
 # Choose a text file to analyze.
 # Each line is treated as one text record.
-input_path: Path = DATA_PATH / "text_data.txt"
+input_path: Path = DATA_PATH / "text_data_final.txt"
 
 # Read all lines from the file.
 text_list: list[str] = input_path.read_text(encoding="utf-8").splitlines()
@@ -172,7 +172,6 @@ STOP_WORDS: set[str] = {
     "were",
     "will",
     "with",
-    "text",
 }
 
 # Keep only tokens that:
