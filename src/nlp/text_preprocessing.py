@@ -172,6 +172,7 @@ STOP_WORDS: set[str] = {
     "were",
     "will",
     "with",
+    "text",
 }
 
 # Keep only tokens that:
